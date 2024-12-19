@@ -1,0 +1,3 @@
+%python
+# Unmount the existing mount point if it exists
+dbutils.fs.unmount("/mnt/tokyoolymic/(mount name)")
